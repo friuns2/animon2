@@ -1,15 +1,15 @@
 {
-  "name": "Github Page PWA",
-  "short_name": "GPPWA",
-  "description": "Github Page as a Progressive Web App",
-  "scope": "/github-page-pwa/",
-  "start_url": "/github-page-pwa/",
+  "name": "Animon AR",
+  "short_name": "Animon",
+  "description": "Animon AR is a mobile app that allows you to interact with your favorite plants in augmented reality.",
+  "scope": "/animon2/",
+  "start_url": "/animon2/",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "display": "standalone", 
   "icons": [
       {
-        "src": "/github-page-pwa/img/icon.png",
+        "src": "/animon2/img/icon.png",
         "type": "image/png",
         "sizes": "700x700"
       }
